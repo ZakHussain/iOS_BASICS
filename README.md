@@ -1,5 +1,4 @@
 # Description of each APP in this Repo
-===========================================
 
 ### (1) Cold Call
 	Working with the UI is a fundamental part of iOS development. Cold call implements 
